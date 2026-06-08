@@ -37,9 +37,10 @@ Para ejecutar el despliegue correctamente en una máquina virtual limpia de Ubun
 
 
 Imagenes de comprobacion
-
+sudo ./install_lamp.sh 
 <img width="1586" height="373" alt="Practica Lamps" src="https://github.com/user-attachments/assets/5bd823f2-cdb1-4ea4-a7cf-2c6d6f629d52" />
 
 
+Buscamos en el navegador nuestra ip Publica (http://54.160.48.182/)
 <img width="1901" height="1012" alt="Navegador Practica Lamps" src="https://github.com/user-attachments/assets/89d9d530-f994-4e88-a949-e327f754b129" />
 
